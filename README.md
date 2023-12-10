@@ -1,1 +1,1 @@
-# rick-morty
+Application using the Rick and Morty API. Written entirely in Jetpack Compose using Jetpack Compose Navigaiton, it gives the user the ability to get a list of all the characters and optionally see more detailed information about each of them.
